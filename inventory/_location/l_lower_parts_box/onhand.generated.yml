@@ -47,4 +47,5 @@ parts:
   p_sn74hc153d_texas_instruments: 8
   p_sn74hc245pwr_texas_instruments: 1
   p_sn74ls32d_texas_instruments: 2
-total: 828
+  p_t491b475k020at_kemet: 10
+total: 838
