@@ -27,7 +27,7 @@ parts:
   p_lt1085cm_3_3_pbf_analog_devices: 10
   p_lt1085ct_3_3_pbf_analog_devices: 2
   p_mc74f240_motorola: 40
-  p_mc74hct08adr2g_onsemi: 1
+  p_mc74hct08adr2g_onsemi: 2
   p_mc74hct174ad_motorola: 1
   p_mmbt3904_7_f_diodes_inc: 5
   p_mmbt3904lt1htsa1_infineon: 1
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1643
+total: 1644
