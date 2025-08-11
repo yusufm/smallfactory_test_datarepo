@@ -25,4 +25,5 @@ parts:
   p_cy74fct374tsoc_texas_instruments: 3
   p_idt74fct521atso_renesas: 1
   p_lt1085cm_3_3_pbf_analog_devices: 5
-total: 666
+  p_lt1085ct_3_3_pbf_analog_devices: 1
+total: 667
