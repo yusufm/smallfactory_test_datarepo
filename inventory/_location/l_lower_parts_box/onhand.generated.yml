@@ -41,4 +41,5 @@ parts:
   p_sn74as74ad_texas_instruments: 1
   p_sn74f04d_texas_instruments: 8
   p_sn74f174ad_texas_instruments: 1
-total: 808
+  p_sn74f175d_texas_instruments: 7
+total: 815
