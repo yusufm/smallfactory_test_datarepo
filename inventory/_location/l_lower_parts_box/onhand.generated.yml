@@ -17,4 +17,5 @@ parts:
   p_ams1117_3_3_advanced_monolithic_systems: 48
   p_bat54clt1g_onsemi: 18
   p_bss123_onsemi: 50
-total: 262
+  p_bym10_50_e3_97_vishay: 100
+total: 362
