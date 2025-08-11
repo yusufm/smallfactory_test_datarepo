@@ -16,4 +16,5 @@ parts:
   p_ne555p_texas_instruments: 2
   p_rtc72421b_epson: 5
   p_sn74abt244an_texas_instruments: 2
-total: 68
+  p_sn74abt373n_texas_instruments: 3
+total: 71
