@@ -1,5 +1,5 @@
 uom: ea
-as_of: '2025-08-11T07:31:55Z'
+as_of: '2025-08-11T07:31:56Z'
 parts:
   p_1n4001rlg_onsemi: 5
   p_1n4148w_7_f_diodes_inc: 9
@@ -18,4 +18,5 @@ parts:
   p_bat54clt1g_onsemi: 18
   p_bss123_onsemi: 50
   p_bym10_50_e3_97_vishay: 100
-total: 362
+  p_cd74hc153m_texas_instruments: 3
+total: 365
