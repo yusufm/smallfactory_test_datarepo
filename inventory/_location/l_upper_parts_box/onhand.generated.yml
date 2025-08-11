@@ -8,4 +8,5 @@ parts:
   p_4609x_101_331lf_bourns: 6
   p_4610m_101_102lf_bourns: 16
   p_4610x_101_102lf_bourns: 4
-total: 68
+  p_4610x_101_332lf_bourns: 6
+total: 74
