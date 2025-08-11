@@ -9,7 +9,7 @@ parts:
   p_4610m_101_102lf_bourns: 32
   p_4610x_101_102lf_bourns: 8
   p_4610x_101_332lf_bourns: 12
-  p_4610x_101_472lf_bourns: 2
+  p_4610x_101_472lf_bourns: 4
   p_4610x_102_390lf_bourns: 1
   p_cb3_3c_72m000000_cts_components: 7
   p_cppc4l_a7br_72_0ts_cardinal_components: 9
@@ -32,4 +32,4 @@ parts:
   p_xc95288xl_10tqg144c_xilinx: 16
   p_xc95288xl_10tqg144i_xilinx: 2
   p_xc9572xl_10vqg44c_xilinx: 10
-total: 287
+total: 289
