@@ -22,7 +22,7 @@ parts:
   p_crcw0603220rfkea_vishay: 440
   p_crg1206f470r_te_connectivity: 16
   p_crgcq0805j4k7_te_connectivity: 128
-  p_cy74fct374tsoc_texas_instruments: 3
+  p_cy74fct374tsoc_texas_instruments: 6
   p_idt74fct521atso_renesas: 1
   p_lt1085cm_3_3_pbf_analog_devices: 5
   p_lt1085ct_3_3_pbf_analog_devices: 1
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1613
+total: 1616
