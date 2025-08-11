@@ -29,4 +29,5 @@ parts:
   p_mc74f240_motorola: 20
   p_mc74hct08adr2g_onsemi: 1
   p_mc74hct174ad_motorola: 1
-total: 689
+  p_mmbt3904_7_f_diodes_inc: 5
+total: 694
