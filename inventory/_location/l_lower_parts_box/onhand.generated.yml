@@ -32,4 +32,5 @@ parts:
   p_mmbt3904_7_f_diodes_inc: 5
   p_mmbt3904lt1htsa1_infineon: 1
   p_n74f07d_nxp_semiconductors: 3
-total: 698
+  p_qnm1100a28_32_00mhz_cts_components: 4
+total: 702
