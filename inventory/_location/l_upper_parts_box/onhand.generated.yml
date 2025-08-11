@@ -6,7 +6,7 @@ parts:
   p_4608x_102_220lf_bourns: 34
   p_4609m_101_102lf_bourns: 18
   p_4609x_101_331lf_bourns: 12
-  p_4610m_101_102lf_bourns: 16
+  p_4610m_101_102lf_bourns: 32
   p_4610x_101_102lf_bourns: 4
   p_4610x_101_332lf_bourns: 6
   p_4610x_101_472lf_bourns: 2
@@ -32,4 +32,4 @@ parts:
   p_xc95288xl_10tqg144c_xilinx: 16
   p_xc95288xl_10tqg144i_xilinx: 2
   p_xc9572xl_10vqg44c_xilinx: 10
-total: 261
+total: 277
