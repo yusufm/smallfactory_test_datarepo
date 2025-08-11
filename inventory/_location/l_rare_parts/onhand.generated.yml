@@ -1,5 +1,5 @@
 uom: ea
-as_of: '2025-08-11T07:34:06Z'
+as_of: '2025-08-11T07:34:07Z'
 parts:
   p_2n3904bu_onsemi: 4
   p_ap2210n_3_3trg1_diodes_inc: 24
@@ -11,7 +11,7 @@ parts:
   p_hyb514256b_60_siemens: 4
   p_k4e6416120_tl60_samsung: 4
   p_mc68ec060rc50_nxp_semiconductors: 2
-  p_mc74f258n_motorola: 8
+  p_mc74f258n_motorola: 16
   p_mmbt3904lt1htsa1_infineon: 11
   p_ne555p_texas_instruments: 2
   p_rtc72421b_epson: 5
@@ -24,4 +24,4 @@ parts:
   p_w25x10clsnig_winbond: 1
   p_w9825g6kh_6_winbond: 5
   p_xc95288xl_10tqg144i_xilinx: 10
-total: 132
+total: 140
