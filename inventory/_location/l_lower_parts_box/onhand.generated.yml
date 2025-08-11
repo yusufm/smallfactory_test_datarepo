@@ -17,7 +17,7 @@ parts:
   p_ams1117_3_3_advanced_monolithic_systems: 96
   p_bat54clt1g_onsemi: 36
   p_bss123_onsemi: 100
-  p_bym10_50_e3_97_vishay: 100
+  p_bym10_50_e3_97_vishay: 200
   p_cd74hc153m_texas_instruments: 3
   p_crcw0603220rfkea_vishay: 220
   p_crg1206f470r_te_connectivity: 8
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1218
+total: 1318
