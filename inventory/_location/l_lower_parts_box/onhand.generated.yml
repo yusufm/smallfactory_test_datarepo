@@ -33,4 +33,5 @@ parts:
   p_mmbt3904lt1htsa1_infineon: 1
   p_n74f07d_nxp_semiconductors: 3
   p_qnm1100a28_32_00mhz_cts_components: 4
-total: 702
+  p_rc1206fr_07100rl_yageo: 9
+total: 711
