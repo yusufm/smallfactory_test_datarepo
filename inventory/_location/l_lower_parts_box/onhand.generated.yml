@@ -13,7 +13,7 @@ parts:
   p_505070_4222_molex: 20
   p_74hct00d_653_nexperia: 40
   p_74ht04_texas_instruments: 56
-  p_8225_0_15_15_10_27_10_0_mill_max: 1
+  p_8225_0_15_15_10_27_10_0_mill_max: 2
   p_ams1117_3_3_advanced_monolithic_systems: 48
   p_bat54clt1g_onsemi: 18
   p_bss123_onsemi: 50
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1101
+total: 1102
