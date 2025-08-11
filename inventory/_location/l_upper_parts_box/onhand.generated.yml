@@ -30,6 +30,6 @@ parts:
   p_tc1262_3_3vdb_microchip: 8
   p_vf901509_100_000mhz_cts_components: 8
   p_xc95288xl_10tqg144c_xilinx: 32
-  p_xc95288xl_10tqg144i_xilinx: 2
+  p_xc95288xl_10tqg144i_xilinx: 4
   p_xc9572xl_10vqg44c_xilinx: 10
-total: 414
+total: 416
