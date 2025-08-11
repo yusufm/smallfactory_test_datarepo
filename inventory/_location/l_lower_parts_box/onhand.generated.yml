@@ -1,5 +1,5 @@
 uom: ea
-as_of: '2025-08-11T07:34:03Z'
+as_of: '2025-08-11T07:34:04Z'
 parts:
   p_1n4001rlg_onsemi: 10
   p_1n4148w_7_f_diodes_inc: 18
@@ -35,7 +35,7 @@ parts:
   p_qnm1100a28_32_00mhz_cts_components: 8
   p_rc1206fr_07100rl_yageo: 18
   p_rk73b2attd472j_koa_speer: 130
-  p_rp5c01_ricoh: 12
+  p_rp5c01_ricoh: 24
   p_rpc0805jt100r_stackpole_electronics: 2
   p_sn74ahct00d_texas_instruments: 8
   p_sn74as74ad_texas_instruments: 1
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1732
+total: 1744
