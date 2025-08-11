@@ -15,7 +15,7 @@ parts:
   p_74ht04_texas_instruments: 56
   p_8225_0_15_15_10_27_10_0_mill_max: 2
   p_ams1117_3_3_advanced_monolithic_systems: 96
-  p_bat54clt1g_onsemi: 18
+  p_bat54clt1g_onsemi: 36
   p_bss123_onsemi: 50
   p_bym10_50_e3_97_vishay: 100
   p_cd74hc153m_texas_instruments: 3
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1150
+total: 1168
