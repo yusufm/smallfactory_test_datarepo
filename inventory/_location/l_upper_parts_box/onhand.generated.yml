@@ -29,4 +29,5 @@ parts:
   p_srp1040va_2r2m_bourns: 10
   p_tc1262_3_3vdb_microchip: 4
   p_vf901509_100_000mhz_cts_components: 4
-total: 185
+  p_xc95288xl_10tqg144c_xilinx: 16
+total: 201
