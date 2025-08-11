@@ -12,4 +12,5 @@ parts:
   p_k4e6416120_tl60_samsung: 2
   p_mc68ec060rc50_nxp_semiconductors: 1
   p_mc74f258n_motorola: 8
-total: 48
+  p_mmbt3904lt1htsa1_infineon: 11
+total: 59
