@@ -19,4 +19,5 @@ parts:
   p_bss123_onsemi: 50
   p_bym10_50_e3_97_vishay: 100
   p_cd74hc153m_texas_instruments: 3
-total: 365
+  p_crcw0603220rfkea_vishay: 220
+total: 585
