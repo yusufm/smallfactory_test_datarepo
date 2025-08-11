@@ -52,4 +52,5 @@ parts:
   p_tcjn106m006r0500e_kyocera_avx: 1
   p_tpsb106k025r1800_kyocera_avx: 2
   p_tr3c226k025c0250_vishay: 3
-total: 924
+  p_tz03p450f169b00_murata: 5
+total: 929
