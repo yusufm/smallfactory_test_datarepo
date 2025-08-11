@@ -8,7 +8,7 @@ parts:
   p_2250_0_15_15_47_27_10_0_mill_max: 2
   p_3305_1_15_15_47_27_10_0_mill_max: 2
   p_4282_0_15_15_47_27_10_0_mill_max: 2
-  p_4518_0_15_15_04_27_04_0_mill_max: 1
+  p_4518_0_15_15_04_27_04_0_mill_max: 2
   p_505066_4222_molex: 10
   p_505070_4222_molex: 10
   p_74hct00d_653_nexperia: 20
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1032
+total: 1033
