@@ -13,7 +13,7 @@ parts:
   p_mc68ec060rc50_nxp_semiconductors: 2
   p_mc74f258n_motorola: 16
   p_mmbt3904lt1htsa1_infineon: 22
-  p_ne555p_texas_instruments: 2
+  p_ne555p_texas_instruments: 4
   p_rtc72421b_epson: 5
   p_sn74abt244an_texas_instruments: 2
   p_sn74abt373n_texas_instruments: 3
@@ -24,4 +24,4 @@ parts:
   p_w25x10clsnig_winbond: 1
   p_w9825g6kh_6_winbond: 5
   p_xc95288xl_10tqg144i_xilinx: 10
-total: 151
+total: 153
