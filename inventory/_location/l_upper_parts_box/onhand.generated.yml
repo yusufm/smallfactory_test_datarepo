@@ -17,4 +17,5 @@ parts:
   p_doc70_50_000mhz_kds_daishinku: 5
   p_doc_70_66_666m_kds_daishinku: 4
   p_ep2500pdc_100mhz_ecliptek: 3
-total: 115
+  p_ho22c50_0000nns_000_hosonic_electronic: 4
+total: 119
