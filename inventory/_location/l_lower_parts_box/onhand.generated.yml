@@ -24,4 +24,5 @@ parts:
   p_crgcq0805j4k7_te_connectivity: 64
   p_cy74fct374tsoc_texas_instruments: 3
   p_idt74fct521atso_renesas: 1
-total: 661
+  p_lt1085cm_3_3_pbf_analog_devices: 5
+total: 666
