@@ -48,4 +48,5 @@ parts:
   p_sn74hc245pwr_texas_instruments: 1
   p_sn74ls32d_texas_instruments: 2
   p_t491b475k020at_kemet: 10
-total: 838
+  p_tajb106m020rnj_kyocera_avx: 80
+total: 918
