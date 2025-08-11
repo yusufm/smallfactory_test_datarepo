@@ -11,4 +11,5 @@ parts:
   p_hyb514256b_60_siemens: 2
   p_k4e6416120_tl60_samsung: 2
   p_mc68ec060rc50_nxp_semiconductors: 1
-total: 40
+  p_mc74f258n_motorola: 8
+total: 48
