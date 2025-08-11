@@ -16,7 +16,7 @@ parts:
   p_km44c256cp_6_samsung: 16
   p_ltc2990cms_pbf_analog_devices___linear_technology: 2
   p_m24c04_wbn6p_stmicroelectronics: 34
-  p_r82mc1680dq50k_kemet: 20
+  p_r82mc1680dq50k_kemet: 40
   p_rnl10x472g_yageo: 10
   p_t491c106k025at_kemet: 6
-total: 1222
+total: 1242
