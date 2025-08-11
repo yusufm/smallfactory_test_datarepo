@@ -4,4 +4,5 @@ parts:
   p_1n4001rlg_onsemi: 5
   p_1n4148w_7_f_diodes_inc: 9
   p_1n4148w_tp_mcc: 50
-total: 64
+  p_1smb5927bt3g_onsemi: 9
+total: 73
