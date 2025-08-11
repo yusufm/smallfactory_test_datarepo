@@ -38,4 +38,5 @@ parts:
   p_rp5c01_ricoh: 12
   p_rpc0805jt100r_stackpole_electronics: 2
   p_sn74ahct00d_texas_instruments: 8
-total: 798
+  p_sn74as74ad_texas_instruments: 1
+total: 799
