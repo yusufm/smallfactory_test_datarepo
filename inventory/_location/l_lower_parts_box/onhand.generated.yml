@@ -31,4 +31,5 @@ parts:
   p_mc74hct174ad_motorola: 1
   p_mmbt3904_7_f_diodes_inc: 5
   p_mmbt3904lt1htsa1_infineon: 1
-total: 695
+  p_n74f07d_nxp_semiconductors: 3
+total: 698
