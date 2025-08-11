@@ -36,7 +36,7 @@ parts:
   p_rc1206fr_07100rl_yageo: 18
   p_rk73b2attd472j_koa_speer: 130
   p_rp5c01_ricoh: 24
-  p_rpc0805jt100r_stackpole_electronics: 2
+  p_rpc0805jt100r_stackpole_electronics: 4
   p_sn74ahct00d_texas_instruments: 8
   p_sn74as74ad_texas_instruments: 1
   p_sn74f04d_texas_instruments: 8
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1744
+total: 1746
