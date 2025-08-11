@@ -12,4 +12,5 @@ parts:
   p_505066_4222_molex: 10
   p_505070_4222_molex: 10
   p_74hct00d_653_nexperia: 20
-total: 117
+  p_74ht04_texas_instruments: 28
+total: 145
