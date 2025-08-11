@@ -53,4 +53,5 @@ parts:
   p_tpsb106k025r1800_kyocera_avx: 2
   p_tr3c226k025c0250_vishay: 3
   p_tz03p450f169b00_murata: 5
-total: 929
+  p_xc9572xl_10tqg100c_xilinx: 23
+total: 952
