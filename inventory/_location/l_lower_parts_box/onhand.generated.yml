@@ -22,4 +22,5 @@ parts:
   p_crcw0603220rfkea_vishay: 220
   p_crg1206f470r_te_connectivity: 8
   p_crgcq0805j4k7_te_connectivity: 64
-total: 657
+  p_cy74fct374tsoc_texas_instruments: 3
+total: 660
