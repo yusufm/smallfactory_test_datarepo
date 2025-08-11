@@ -41,7 +41,7 @@ parts:
   p_sn74as74ad_texas_instruments: 2
   p_sn74f04d_texas_instruments: 16
   p_sn74f174ad_texas_instruments: 2
-  p_sn74f175d_texas_instruments: 7
+  p_sn74f175d_texas_instruments: 14
   p_sn74f245dw_texas_instruments: 1
   p_sn74f38dr_texas_instruments: 1
   p_sn74hc153d_texas_instruments: 8
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1764
+total: 1771
