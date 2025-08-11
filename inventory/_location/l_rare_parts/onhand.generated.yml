@@ -9,7 +9,7 @@ parts:
   p_ds1100z_25_maxim_integrated: 20
   p_ft312d_32l1c_t_ftdi: 2
   p_hyb514256b_60_siemens: 4
-  p_k4e6416120_tl60_samsung: 2
+  p_k4e6416120_tl60_samsung: 4
   p_mc68ec060rc50_nxp_semiconductors: 1
   p_mc74f258n_motorola: 8
   p_mmbt3904lt1htsa1_infineon: 11
@@ -24,4 +24,4 @@ parts:
   p_w25x10clsnig_winbond: 1
   p_w9825g6kh_6_winbond: 5
   p_xc95288xl_10tqg144i_xilinx: 10
-total: 129
+total: 131
