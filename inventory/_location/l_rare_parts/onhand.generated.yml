@@ -19,4 +19,5 @@ parts:
   p_sn74abt373n_texas_instruments: 3
   p_sn74f244n_texas_instruments: 1
   p_sn74ls05n_texas_instruments: 1
-total: 73
+  p_sn74ls373n_texas_instruments: 2
+total: 75
