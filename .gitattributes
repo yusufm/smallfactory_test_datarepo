@@ -1,0 +1,3 @@
+# Git attributes for smallFactory datarepo
+# Use union merge for inventory journals to reduce conflicts
+inventory/p_*/journal.ndjson merge=union
