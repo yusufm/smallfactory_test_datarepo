@@ -19,7 +19,7 @@ parts:
   p_bss123_onsemi: 100
   p_bym10_50_e3_97_vishay: 200
   p_cd74hc153m_texas_instruments: 6
-  p_crcw0603220rfkea_vishay: 220
+  p_crcw0603220rfkea_vishay: 440
   p_crg1206f470r_te_connectivity: 8
   p_crgcq0805j4k7_te_connectivity: 64
   p_cy74fct374tsoc_texas_instruments: 3
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1321
+total: 1541
