@@ -16,4 +16,5 @@ parts:
   p_8225_0_15_15_10_27_10_0_mill_max: 1
   p_ams1117_3_3_advanced_monolithic_systems: 48
   p_bat54clt1g_onsemi: 18
-total: 212
+  p_bss123_onsemi: 50
+total: 262
