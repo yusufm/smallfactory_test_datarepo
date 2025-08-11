@@ -14,4 +14,5 @@ parts:
   p_mc74f258n_motorola: 8
   p_mmbt3904lt1htsa1_infineon: 11
   p_ne555p_texas_instruments: 2
-total: 61
+  p_rtc72421b_epson: 5
+total: 66
