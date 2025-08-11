@@ -9,7 +9,7 @@ parts:
   p_4610x_101_222lf_bourns: 12
   p_4610x_104_221_331l_bourns: 6
   p_8817_200_170s_f_kel: 22
-  p_ck13bx682ktr_kemet: 20
+  p_ck13bx682ktr_kemet: 40
   p_cl10b104kb8nnnl_samsung: 450
   p_csc05a014k70gek_vishay: 9
   p_doc70_28_35716mhz_kds_daishinku: 5
@@ -19,4 +19,4 @@ parts:
   p_r82mc1680dq50k_kemet: 20
   p_rnl10x472g_yageo: 10
   p_t491c106k025at_kemet: 6
-total: 712
+total: 732
