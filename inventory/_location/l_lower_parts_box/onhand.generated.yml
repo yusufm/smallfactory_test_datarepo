@@ -28,4 +28,5 @@ parts:
   p_lt1085ct_3_3_pbf_analog_devices: 1
   p_mc74f240_motorola: 20
   p_mc74hct08adr2g_onsemi: 1
-total: 688
+  p_mc74hct174ad_motorola: 1
+total: 689
