@@ -15,7 +15,7 @@ parts:
   p_cppc4l_a7br_72_0ts_cardinal_components: 18
   p_d5sx66e000001e_hosonic_electronic: 20
   p_doc70_50_000mhz_kds_daishinku: 10
-  p_doc_70_66_666m_kds_daishinku: 4
+  p_doc_70_66_666m_kds_daishinku: 8
   p_ep2500pdc_100mhz_ecliptek: 3
   p_ho22c50_0000nns_000_hosonic_electronic: 4
   p_mcp6001t_e_ot_microchip: 19
@@ -32,4 +32,4 @@ parts:
   p_xc95288xl_10tqg144c_xilinx: 16
   p_xc95288xl_10tqg144i_xilinx: 2
   p_xc9572xl_10vqg44c_xilinx: 10
-total: 321
+total: 325
