@@ -20,4 +20,5 @@ parts:
   p_bym10_50_e3_97_vishay: 100
   p_cd74hc153m_texas_instruments: 3
   p_crcw0603220rfkea_vishay: 220
-total: 585
+  p_crg1206f470r_te_connectivity: 8
+total: 593
