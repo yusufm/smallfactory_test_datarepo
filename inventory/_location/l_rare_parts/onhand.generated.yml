@@ -10,4 +10,5 @@ parts:
   p_ft312d_32l1c_t_ftdi: 1
   p_hyb514256b_60_siemens: 2
   p_k4e6416120_tl60_samsung: 2
-total: 39
+  p_mc68ec060rc50_nxp_semiconductors: 1
+total: 40
