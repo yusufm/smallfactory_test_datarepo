@@ -6,7 +6,7 @@ parts:
   p_1n4148w_tp_mcc: 100
   p_1smb5927bt3g_onsemi: 18
   p_2250_0_15_15_47_27_10_0_mill_max: 2
-  p_3305_1_15_15_47_27_10_0_mill_max: 1
+  p_3305_1_15_15_47_27_10_0_mill_max: 2
   p_4282_0_15_15_47_27_10_0_mill_max: 1
   p_4518_0_15_15_04_27_04_0_mill_max: 1
   p_505066_4222_molex: 10
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1030
+total: 1031
