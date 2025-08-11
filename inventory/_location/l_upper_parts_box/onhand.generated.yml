@@ -1,35 +1,35 @@
 uom: ea
-as_of: '2025-08-11T07:34:09Z'
+as_of: '2025-08-11T07:58:36Z'
 parts:
-  p_292303_5_te_connectivity: 16
-  p_4608x_101_331lf_bourns: 16
-  p_4608x_102_220lf_bourns: 34
-  p_4609m_101_102lf_bourns: 18
-  p_4609x_101_331lf_bourns: 12
-  p_4610m_101_102lf_bourns: 32
-  p_4610x_101_102lf_bourns: 8
-  p_4610x_101_332lf_bourns: 12
-  p_4610x_101_472lf_bourns: 4
-  p_4610x_102_390lf_bourns: 2
-  p_cb3_3c_72m000000_cts_components: 14
-  p_cppc4l_a7br_72_0ts_cardinal_components: 18
-  p_d5sx66e000001e_hosonic_electronic: 20
-  p_doc70_50_000mhz_kds_daishinku: 10
-  p_doc_70_66_666m_kds_daishinku: 8
-  p_ep2500pdc_100mhz_ecliptek: 6
-  p_ho22c50_0000nns_000_hosonic_electronic: 8
-  p_mcp6001t_e_ot_microchip: 38
-  p_mmbd914_e3_08_vishay: 10
-  p_mxo45_3c_28m63636_cts_components: 2
-  p_p1100_hc60_000000mhz_pletronics: 2
-  p_p1100_hc_66_000000m_pletronics: 2
-  p_pdta123et_215_nexperia: 20
-  p_qmqf574t33_2_5b_108_000_mercury_united: 20
-  p_sq330040_000_pletronics: 2
-  p_srp1040va_2r2m_bourns: 20
-  p_tc1262_3_3vdb_microchip: 8
-  p_vf901509_100_000mhz_cts_components: 8
-  p_xc95288xl_10tqg144c_xilinx: 32
-  p_xc95288xl_10tqg144i_xilinx: 4
-  p_xc9572xl_10vqg44c_xilinx: 20
-total: 426
+  p_292303_5_te_connectivity: 8
+  p_4608x_101_331lf_bourns: 8
+  p_4608x_102_220lf_bourns: 17
+  p_4609m_101_102lf_bourns: 9
+  p_4609x_101_331lf_bourns: 6
+  p_4610m_101_102lf_bourns: 16
+  p_4610x_101_102lf_bourns: 4
+  p_4610x_101_332lf_bourns: 6
+  p_4610x_101_472lf_bourns: 2
+  p_4610x_102_390lf_bourns: 1
+  p_cb3_3c_72m000000_cts_components: 7
+  p_cppc4l_a7br_72_0ts_cardinal_components: 9
+  p_d5sx66e000001e_hosonic_electronic: 10
+  p_doc70_50_000mhz_kds_daishinku: 5
+  p_doc_70_66_666m_kds_daishinku: 4
+  p_ep2500pdc_100mhz_ecliptek: 3
+  p_ho22c50_0000nns_000_hosonic_electronic: 4
+  p_mcp6001t_e_ot_microchip: 19
+  p_mmbd914_e3_08_vishay: 5
+  p_mxo45_3c_28m63636_cts_components: 1
+  p_p1100_hc60_000000mhz_pletronics: 1
+  p_p1100_hc_66_000000m_pletronics: 1
+  p_pdta123et_215_nexperia: 10
+  p_qmqf574t33_2_5b_108_000_mercury_united: 10
+  p_sq330040_000_pletronics: 1
+  p_srp1040va_2r2m_bourns: 10
+  p_tc1262_3_3vdb_microchip: 4
+  p_vf901509_100_000mhz_cts_components: 4
+  p_xc95288xl_10tqg144c_xilinx: 16
+  p_xc95288xl_10tqg144i_xilinx: 2
+  p_xc9572xl_10vqg44c_xilinx: 10
+total: 213
