@@ -3,7 +3,7 @@ as_of: '2025-08-11T07:34:06Z'
 parts:
   p_2n3904bu_onsemi: 4
   p_ap2210n_3_3trg1_diodes_inc: 24
-  p_cm4545z131b_10_laird: 1
+  p_cm4545z131b_10_laird: 2
   p_ds1000z_25_maxim_integrated: 7
   p_ds1100z_20__maxim_integrated: 2
   p_ds1100z_25_maxim_integrated: 10
@@ -24,4 +24,4 @@ parts:
   p_w25x10clsnig_winbond: 1
   p_w9825g6kh_6_winbond: 5
   p_xc95288xl_10tqg144i_xilinx: 10
-total: 106
+total: 107
