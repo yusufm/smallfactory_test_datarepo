@@ -13,4 +13,5 @@ parts:
   p_mc68ec060rc50_nxp_semiconductors: 1
   p_mc74f258n_motorola: 8
   p_mmbt3904lt1htsa1_infineon: 11
-total: 59
+  p_ne555p_texas_instruments: 2
+total: 61
