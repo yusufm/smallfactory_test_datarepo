@@ -47,7 +47,7 @@ parts:
   p_sn74hc153d_texas_instruments: 16
   p_sn74hc245pwr_texas_instruments: 2
   p_sn74ls32d_texas_instruments: 4
-  p_t491b475k020at_kemet: 10
+  p_t491b475k020at_kemet: 20
   p_tajb106m020rnj_kyocera_avx: 80
   p_tcjn106m006r0500e_kyocera_avx: 1
   p_tpsb106k025r1800_kyocera_avx: 2
@@ -55,4 +55,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 1784
+total: 1794
