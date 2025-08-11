@@ -5,7 +5,7 @@ parts:
   p_1n4148ws_grvg_taiwan_semiconductor: 4
   p_2166_0_15_15_34_27_04_0_mill_max: 2
   p_2_382007_3_te_connectivity___amp: 82
-  p_4605x_ap1_331lf_bourns: 9
+  p_4605x_ap1_331lf_bourns: 18
   p_4610x_101_222lf_bourns: 6
   p_4610x_104_221_331l_bourns: 3
   p_8817_200_170s_f_kel: 11
@@ -19,4 +19,4 @@ parts:
   p_r82mc1680dq50k_kemet: 20
   p_rnl10x472g_yageo: 10
   p_t491c106k025at_kemet: 6
-total: 683
+total: 692
