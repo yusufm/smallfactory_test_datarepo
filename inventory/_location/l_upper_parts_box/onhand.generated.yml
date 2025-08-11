@@ -18,7 +18,7 @@ parts:
   p_doc_70_66_666m_kds_daishinku: 8
   p_ep2500pdc_100mhz_ecliptek: 6
   p_ho22c50_0000nns_000_hosonic_electronic: 8
-  p_mcp6001t_e_ot_microchip: 19
+  p_mcp6001t_e_ot_microchip: 38
   p_mmbd914_e3_08_vishay: 5
   p_mxo45_3c_28m63636_cts_components: 1
   p_p1100_hc60_000000mhz_pletronics: 1
@@ -32,4 +32,4 @@ parts:
   p_xc95288xl_10tqg144c_xilinx: 16
   p_xc95288xl_10tqg144i_xilinx: 2
   p_xc9572xl_10vqg44c_xilinx: 10
-total: 332
+total: 351
