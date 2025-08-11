@@ -1,7 +1,7 @@
 uom: ea
-as_of: '2025-08-11T07:32:01Z'
+as_of: '2025-08-11T07:34:05Z'
 parts:
-  p_1n4148_onsemi: 10
+  p_1n4148_onsemi: 20
   p_1n4148ws_grvg_taiwan_semiconductor: 2
   p_2166_0_15_15_34_27_04_0_mill_max: 1
   p_2_382007_3_te_connectivity___amp: 41
@@ -19,4 +19,4 @@ parts:
   p_r82mc1680dq50k_kemet: 20
   p_rnl10x472g_yageo: 10
   p_t491c106k025at_kemet: 6
-total: 629
+total: 639
