@@ -16,7 +16,7 @@ parts:
   p_ne555p_texas_instruments: 4
   p_rtc72421b_epson: 10
   p_sn74abt244an_texas_instruments: 4
-  p_sn74abt373n_texas_instruments: 3
+  p_sn74abt373n_texas_instruments: 6
   p_sn74f244n_texas_instruments: 1
   p_sn74ls05n_texas_instruments: 1
   p_sn74ls373n_texas_instruments: 2
@@ -24,4 +24,4 @@ parts:
   p_w25x10clsnig_winbond: 1
   p_w9825g6kh_6_winbond: 5
   p_xc95288xl_10tqg144i_xilinx: 10
-total: 160
+total: 163
