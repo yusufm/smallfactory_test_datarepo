@@ -7,7 +7,7 @@ parts:
   p_ds1000z_25_maxim_integrated: 14
   p_ds1100z_20__maxim_integrated: 4
   p_ds1100z_25_maxim_integrated: 20
-  p_ft312d_32l1c_t_ftdi: 1
+  p_ft312d_32l1c_t_ftdi: 2
   p_hyb514256b_60_siemens: 2
   p_k4e6416120_tl60_samsung: 2
   p_mc68ec060rc50_nxp_semiconductors: 1
@@ -24,4 +24,4 @@ parts:
   p_w25x10clsnig_winbond: 1
   p_w9825g6kh_6_winbond: 5
   p_xc95288xl_10tqg144i_xilinx: 10
-total: 126
+total: 127
