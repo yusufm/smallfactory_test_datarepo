@@ -3,4 +3,5 @@ as_of: '2025-08-11T07:32:00Z'
 parts:
   p_292303_5_te_connectivity: 8
   p_4608x_101_331lf_bourns: 8
-total: 16
+  p_4608x_102_220lf_bourns: 17
+total: 33
