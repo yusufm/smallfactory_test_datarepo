@@ -23,4 +23,5 @@ parts:
   p_mxo45_3c_28m63636_cts_components: 1
   p_p1100_hc60_000000mhz_pletronics: 1
   p_p1100_hc_66_000000m_pletronics: 1
-total: 146
+  p_pdta123et_215_nexperia: 10
+total: 156
