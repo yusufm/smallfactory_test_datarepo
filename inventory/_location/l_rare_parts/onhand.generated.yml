@@ -22,4 +22,5 @@ parts:
   p_sn74ls373n_texas_instruments: 2
   p_tl084acn_texas_instruments: 1
   p_w25x10clsnig_winbond: 1
-total: 77
+  p_w9825g6kh_6_winbond: 5
+total: 82
