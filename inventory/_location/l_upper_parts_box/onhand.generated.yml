@@ -21,4 +21,5 @@ parts:
   p_mcp6001t_e_ot_microchip: 19
   p_mmbd914_e3_08_vishay: 5
   p_mxo45_3c_28m63636_cts_components: 1
-total: 144
+  p_p1100_hc60_000000mhz_pletronics: 1
+total: 145
