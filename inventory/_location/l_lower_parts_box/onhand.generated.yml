@@ -26,4 +26,5 @@ parts:
   p_idt74fct521atso_renesas: 1
   p_lt1085cm_3_3_pbf_analog_devices: 5
   p_lt1085ct_3_3_pbf_analog_devices: 1
-total: 667
+  p_mc74f240_motorola: 20
+total: 687
