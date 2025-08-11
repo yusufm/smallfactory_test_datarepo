@@ -54,5 +54,5 @@ parts:
   p_tr3c226k025c0250_vishay: 6
   p_tz03p450f169b00_murata: 10
   p_xc9572xl_10tqg100c_xilinx: 46
-  p_xc9572xl_10vqg64c_xilinx: 4
-total: 1908
+  p_xc9572xl_10vqg64c_xilinx: 8
+total: 1912
