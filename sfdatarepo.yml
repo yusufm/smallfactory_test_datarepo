@@ -1,3 +1,5 @@
+# This file is a generated scaffold by smallFactory.
+# It is safe to edit and customize for your repository (Please conform to smallFactory specs).
 entities:
   types:
     p:
@@ -40,5 +42,4 @@ inventory:
       description: On-hand quantity as non-negative integer.
       regex: ^[0-9]+$
       required: true
-  default_location: l_no_storage
 smallfactory_version: '1.0'
