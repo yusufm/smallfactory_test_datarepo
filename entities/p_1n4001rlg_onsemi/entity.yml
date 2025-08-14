@@ -1,7 +1,7 @@
 name: 1N4001RLG (onsemi)
 description: Rectifier Diode, 1 Phase, 1 Element, 1A, 50V V(RRM), Silicon, DO-41
 bom:
-- use: p_cbg321609u600t
+- use: p_cbg321609u600tzzz
   qty: 72
   rev: released
 - use: p_cl21c100jbannnc
@@ -37,15 +37,6 @@ bom:
 - use: p_header2-54mm-1-3p
   qty: 1
   rev: released
-- use: p_header2-54mm-1-3p
-  qty: 1
-  rev: released
-- use: p_header2-54mm-1-3p
-  qty: 1
-  rev: released
-- use: p_header2-54mm-1-3p
-  qty: 1
-  rev: released
 - use: p_sn7407dr
   qty: 1
   rev: released
@@ -66,9 +57,6 @@ bom:
   rev: released
 - use: p_rvt1v470m0605
   qty: 6
-  rev: released
-- use: p_gal220v10
-  qty: 5
   rev: released
 - use: p_gal220v10
   qty: 3
