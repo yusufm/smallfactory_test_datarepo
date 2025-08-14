@@ -1,5 +1,5 @@
 rev: '16'
-status: draft
+status: released
 generated_at: '2025-08-14T17:25:08.755100+00:00'
 id: '16'
 source_commit: 84beb63
@@ -13,3 +13,4 @@ artifacts:
 - role: ref
   path: refs/released
   sha256: 238903180cc104ec2c5d8b3f20c5bc61b389ec0a967df8cc208cdc7cd454174f
+released_at: '2025-08-14T17:25:10.372695+00:00'
