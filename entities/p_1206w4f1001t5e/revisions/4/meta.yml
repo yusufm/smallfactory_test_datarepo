@@ -1,0 +1,15 @@
+rev: '4'
+status: draft
+generated_at: '2025-08-14T18:39:17.893365+00:00'
+id: '4'
+source_commit: abbda2c
+artifacts:
+- role: entity
+  path: entity.yml
+  sha256: 3440d8b6e34dcac82e18bc53ae8890887d66ebd33462f01c196de1fd8ec4676d
+- role: bom-tree
+  path: bom_tree.yml
+  sha256: f4773144fd332330536b54a51366486ab4c851336672851e3237286819437601
+- role: ref
+  path: refs/released
+  sha256: 1121cfccd5913f0a63fec40a6ffd44ea64f9dc135c66634ba001d10bcf4302a2
