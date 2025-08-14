@@ -1,0 +1,16 @@
+format: bom_tree.v1
+root: p_1n4001rlg_onsemi
+rev: '1'
+generated_at: '2025-08-14T18:30:06.795927+00:00'
+nodes:
+- parent: p_1n4001rlg_onsemi
+  use: p_171826-4111111111
+  name: p_171826-4111111111
+  qty: 72
+  rev_spec: released
+  rev: null
+  level: 0
+  is_alt: false
+  alternates_group: null
+  cumulative_qty: 72
+  cycle: false
