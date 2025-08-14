@@ -1,5 +1,5 @@
 rev: '3'
-status: draft
+status: released
 generated_at: '2025-08-14T18:30:09.972895+00:00'
 id: '3'
 source_commit: 59fdf17
@@ -145,3 +145,4 @@ artifacts:
 - role: file
   path: files/kicad/20250813-142038_ReA4091_Mini_2024-10-24_BOM.csv
   sha256: 86ec4aa02db359086b2ad1b0d8bdaf06cfd3d00d5c99b3e8e6955f2f307b21d8
+released_at: '2025-08-14T18:30:10.052726+00:00'
