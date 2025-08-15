@@ -1,0 +1,15 @@
+rev: '5'
+status: draft
+generated_at: '2025-08-15T03:25:42.568464+00:00'
+id: '5'
+source_commit: 3c28216
+artifacts:
+- role: entity
+  path: entity.yml
+  sha256: 3414607d52326b45ef497c024a73b3e9473db59070e1795470b2197da4d283a1
+- role: bom-tree
+  path: bom_tree.yml
+  sha256: 8762ce8505de892cc50c562eb287831fc7db78a8626e018e3b960fb5181f2519
+- role: ref
+  path: refs/released
+  sha256: 7de1555df0c2700329e815b93b32c571c3ea54dc967b89e81ab73b9972b72d1d
