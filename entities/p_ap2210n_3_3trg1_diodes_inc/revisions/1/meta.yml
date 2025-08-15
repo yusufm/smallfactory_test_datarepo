@@ -1,5 +1,5 @@
 rev: '1'
-status: draft
+status: released
 generated_at: '2025-08-15T03:25:37.132556+00:00'
 id: '1'
 source_commit: d0f7b5d
@@ -10,3 +10,4 @@ artifacts:
 - role: bom-tree
   path: bom_tree.yml
   sha256: 9c4815f3031a5c86fac66afe963bb22afefe902c2c98d3b26dbb3a33b9046e89
+released_at: '2025-08-15T03:25:37.174033+00:00'
