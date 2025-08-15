@@ -1,0 +1,18 @@
+rev: '3'
+status: draft
+generated_at: '2025-08-15T00:43:41.722330+00:00'
+id: '3'
+source_commit: d83bc98
+artifacts:
+- role: entity
+  path: entity.yml
+  sha256: 351bff508b937091a4e6ab4f2c52387d465dceeb4cb98007f85e6221382cb8e5
+- role: bom-tree
+  path: bom_tree.yml
+  sha256: e8f8f401a3580e469c4033d411ef98054b1a30f42d0369f4c5c5204ce68b0f74
+- role: ref
+  path: refs/released
+  sha256: 53c234e5e8472b6ac51c1ae1cab3fe06fad053beb8ebfd8977b010655bfdd3c3
+- role: file
+  path: files/qwefeasfd/ReA4091_Mini_2024-10-24_BOM.csv
+  sha256: 8c05298f230eaf735a6c77c6ca463542df4522c89e3a9e6638b75017ae15ffbb
