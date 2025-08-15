@@ -1,5 +1,5 @@
 rev: '15'
-status: draft
+status: released
 generated_at: '2025-08-15T03:17:21.161686+00:00'
 id: '15'
 source_commit: 373472e
@@ -13,3 +13,4 @@ artifacts:
 - role: ref
   path: refs/released
   sha256: 9a92adbc0cee38ef658c71ce1b1bf8c65668f166bfb213644c895ccb1ad07a25
+released_at: '2025-08-15T03:17:21.210270+00:00'
