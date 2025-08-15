@@ -1,3 +1,10 @@
 name: '22'
 mpn: 1206W4F220JT5E
 manufacturer: "UNI-ROYAL(\u539A\u58F0)"
+bom:
+- use: l_lower_parts_box
+  qty: 1
+  rev: released
+  alternates:
+  - use: p_1206b103k500nt
+  - use: p_2166_0_15_15_34_27_04_0_mill_max
