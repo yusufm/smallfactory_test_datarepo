@@ -1,5 +1,5 @@
 rev: '9'
-status: draft
+status: released
 generated_at: '2025-08-15T00:45:01.990988+00:00'
 id: '9'
 source_commit: b6a571f
@@ -16,3 +16,4 @@ artifacts:
 - role: file
   path: files/qwefeasfd/ReA4091_Mini_2024-10-24_BOM.csv
   sha256: 8c05298f230eaf735a6c77c6ca463542df4522c89e3a9e6638b75017ae15ffbb
+released_at: '2025-08-15T00:45:02.033470+00:00'
