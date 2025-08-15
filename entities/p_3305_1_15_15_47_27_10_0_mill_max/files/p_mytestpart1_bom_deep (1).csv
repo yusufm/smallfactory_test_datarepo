@@ -1,0 +1,9 @@
+parent,use,name,qty,rev,level,is_alt,alternates_group,cumulative_qty,cycle,onhand_total
+p_mytestpart1,p_505066_4222_molex,505066-4222 (Molex),5,released,1,False,,5,False,10
+p_505066_4222_molex,p_74hct00d_653_nexperia,"74HCT00D,653 (Nexperia)",1,released,2,False,,5,False,20
+p_505066_4222_molex,p_74ht04_texas_instruments,74HT04 (Texas Instruments),21,released,2,False,,105,False,28
+p_mytestpart1,p_4605x_ap1_331lf_bourns,4605X-AP1-331LF (Bourns),5,released,2,True,,5,False,9
+p_mytestpart1,p_imot24,p_imot24,5,released,2,True,,5,False,
+p_mytestpart1,p_motor,p_motor,1,released,1,False,ISO_M3x10,1,False,
+p_mytestpart1,p_mytestpart2,mytestpart2,1,released,1,False,,1,False,0
+p_mytestpart2,p_mytestpart1,mytestpart1,5,2,2,False,,5,True,0
