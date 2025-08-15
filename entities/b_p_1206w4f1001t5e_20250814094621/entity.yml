@@ -6,7 +6,7 @@ name: Build 1K
 product_rev: '1'
 description: ''
 category: ''
-policy: make
+policy: phantom
 uom: ea
 tags: []
 attrs: {}
