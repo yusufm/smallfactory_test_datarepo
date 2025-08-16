@@ -5,7 +5,7 @@ serialnumber: '20250814094621'
 name: Build 1K
 product_rev: '1'
 description: ''
-category: ''
+category: somecat
 policy: phantom
 uom: ea
 tags: []
