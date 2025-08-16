@@ -1,5 +1,5 @@
 uom: ea
-as_of: '2025-08-16T16:26:10Z'
+as_of: '2025-08-16T16:50:02Z'
 parts:
   b_p_1206w4f1001t5e_20250815172707: -3
   p_1206b103k500nt: -4
@@ -7,5 +7,6 @@ parts:
   p_1n4148ws_grvg_taiwan_semiconductor: 4
   p_505066_4222_molex: 5
   p_505070_4222_molex: 2
+  p_csc05a014k70gek_vishay: 4
   p_m24c04_wbn6p_stmicroelectronics: 5
-total: 4
+total: 8
