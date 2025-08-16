@@ -1,10 +1,10 @@
 uom: ea
-as_of: '2025-08-16T09:53:23Z'
+as_of: '2025-08-16T09:53:27Z'
 parts:
   b_p_1n4148ws_grvg_taiwan_semiconductor_20250814144415: 1
-  p_1206b103k500nt: 4
+  p_1206b103k500nt: 3
   p_1n4148ws_grvg_taiwan_semiconductor: 4
   p_505066_4222_molex: 5
   p_505070_4222_molex: 2
   p_m24c04_wbn6p_stmicroelectronics: 5
-total: 21
+total: 20
