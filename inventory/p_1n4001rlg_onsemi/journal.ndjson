@@ -1,2 +1,3 @@
 {"txn":"06C9G2R31PDPVZ2WVMHBHB4Z3C","location":"l_lower_parts_box","qty_delta":5,"reason":"migration_legacy_per_location"}
 {"txn":"06CB4QAB0B66D163TWY50A59T0","location":"l_inbox","qty_delta":-5}
+{"txn":"06CB4QB3WX5JNDXFGQD9Z4NY90","location":"l_lower_parts_box","qty_delta":-10}
