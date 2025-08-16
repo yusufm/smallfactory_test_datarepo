@@ -4,3 +4,9 @@ datetime: '2025-08-15T14:37:30'
 serialnumber: '20250815143730'
 name: Build 4610X-101-222LF (Bourns)
 product_rev: '1'
+description: ''
+category: ''
+policy: make
+uom: ea
+tags: []
+attrs: {}
