@@ -30,6 +30,3 @@ bom:
 - use: p_cy74fct543tsoc
   qty: 7
   rev: released
-- use: p_cl31b104kbcnnnc
-  qty: 31
-  rev: released
