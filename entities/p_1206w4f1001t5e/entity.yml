@@ -1,3 +1,7 @@
 name: 1K
 mpn: 1206W4F1001T5E
 manufacturer: UniOhm
+bom:
+- use: p_1206b103k500nt
+  qty: 5
+  rev: released
