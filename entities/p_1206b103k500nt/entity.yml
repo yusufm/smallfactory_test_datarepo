@@ -66,3 +66,6 @@ bom:
 - use: p_cy74fct543tsoc
   qty: 7
   rev: released
+- use: p_74f244scx
+  qty: 1
+  rev: released
