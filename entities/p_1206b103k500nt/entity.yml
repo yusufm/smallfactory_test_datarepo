@@ -66,3 +66,6 @@ bom:
 - use: p_171826-4
   qty: 999
   rev: released
+- use: p_1206b103k500nt
+  qty: 5
+  rev: released
