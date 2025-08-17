@@ -27,3 +27,6 @@ bom:
 - use: p_smd2920b185tf
   qty: 1
   rev: released
+- use: b_p_505066_4222_molex_20250815172030
+  qty: 1
+  rev: released
