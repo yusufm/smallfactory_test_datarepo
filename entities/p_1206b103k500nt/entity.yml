@@ -51,3 +51,6 @@ bom:
 - use: p_header2-54mm-1-3p
   qty: 4
   rev: released
+- use: p_74f245d
+  qty: 2
+  rev: released
