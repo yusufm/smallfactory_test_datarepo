@@ -5,3 +5,6 @@ bom:
 - use: p_cbg321609u600tzzz
   qty: 72
   rev: released
+- use: p_cl21c100jbannnc
+  qty: 1
+  rev: released
