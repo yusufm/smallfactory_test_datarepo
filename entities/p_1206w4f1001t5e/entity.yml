@@ -59,3 +59,6 @@ bom:
 - use: p_gal220v10
   qty: 8
   rev: released
+- use: p_smd2920b185tf
+  qty: 1
+  rev: released
