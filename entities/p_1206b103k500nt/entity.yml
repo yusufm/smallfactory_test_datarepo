@@ -24,3 +24,6 @@ bom:
 - use: p_uwx1e4r7mcl1gb
   qty: 2
   rev: released
+- use: p_smd2920b185tf
+  qty: 1
+  rev: released
