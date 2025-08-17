@@ -45,3 +45,6 @@ bom:
 - use: p_jhhgjh
   qty: 1
   rev: released
+- use: p_b-3000s50p-0110
+  qty: 1
+  rev: released
