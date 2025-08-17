@@ -63,3 +63,6 @@ bom:
 - use: p_gal220v10
   qty: 8
   rev: released
+- use: p_ds2107s
+  qty: 2
+  rev: released
