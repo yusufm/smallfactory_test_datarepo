@@ -20,3 +20,6 @@ bom:
 - use: p_ic254v-12-28-0743-p1524
   qty: 1
   rev: released
+- use: p_dsic08lh-p
+  qty: 1
+  rev: released
