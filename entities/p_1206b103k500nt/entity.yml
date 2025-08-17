@@ -18,9 +18,6 @@ bom:
 - use: p_jhhgjh
   qty: 1
   rev: released
-- use: p_b-3000s50p-0110
-  qty: 1
-  rev: released
 - use: p_rvt1v470m0605
   qty: 6
   rev: released
