@@ -12,9 +12,6 @@ bom:
 - use: p_s7d50-000000a20f30t
   qty: 1
   rev: released
-- use: p_171826-4
-  qty: 1
-  rev: released
 - use: p_header2-54mm-1-3p
   qty: 4
   rev: released
@@ -51,15 +48,9 @@ bom:
 - use: p_74f374d
   qty: 1
   rev: released
-- use: p_171826-4
-  qty: 999
-  rev: released
 - use: p_cbg321609u600t
   qty: 27
   rev: released
 - use: p_cl31b104kbcnnnc
   qty: 31
-  rev: released
-- use: p_171826-4
-  qty: 888
   rev: released
