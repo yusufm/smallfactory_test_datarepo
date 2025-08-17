@@ -78,3 +78,6 @@ bom:
 - use: p_74f374d
   qty: 1
   rev: released
+- use: b_adsfsddsfds
+  qty: 1
+  rev: released
