@@ -71,3 +71,6 @@ bom:
 - use: p_74f244scx
   qty: 1
   rev: released
+- use: p_74fct521ctsog8
+  qty: 1
+  rev: released
