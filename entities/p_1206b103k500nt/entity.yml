@@ -75,3 +75,6 @@ bom:
 - use: p_74f374d
   qty: 1
   rev: released
+- use: p_1206w4f1200t5e
+  qty: 53
+  rev: released
