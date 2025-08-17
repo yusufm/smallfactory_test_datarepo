@@ -27,3 +27,6 @@ bom:
 - use: p_smd2920b185tf
   qty: 1
   rev: released
+- use: p_1206b103k500nt
+  qty: 5
+  rev: released
