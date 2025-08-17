@@ -48,3 +48,6 @@ bom:
 - use: p_171826-4
   qty: 1
   rev: released
+- use: p_header2-54mm-1-3p
+  qty: 4
+  rev: released
