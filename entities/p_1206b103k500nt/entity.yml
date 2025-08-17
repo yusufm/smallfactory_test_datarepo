@@ -60,3 +60,6 @@ bom:
 - use: p_smd2920b185tf
   qty: 1
   rev: released
+- use: p_ds2107s
+  qty: 2
+  rev: released
