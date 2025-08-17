@@ -3,9 +3,6 @@ mpn: 1206B103K500NT
 manufacturer: FH
 description: Updated via web identity test
 bom:
-- use: p_1206b103k500nt
-  qty: 5
-  rev: released
 - use: p_cbg321609u600t
   qty: 27
   rev: released
