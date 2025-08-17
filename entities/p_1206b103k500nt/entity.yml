@@ -60,3 +60,6 @@ bom:
 - use: p_b-3000s50p-0110
   qty: 1
   rev: released
+- use: p_gal220v10
+  qty: 8
+  rev: released
