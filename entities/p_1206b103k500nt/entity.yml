@@ -33,9 +33,6 @@ bom:
 - use: p_cy74fct543tsoc
   qty: 7
   rev: released
-- use: p_74fct521ctsog8
-  qty: 1
-  rev: released
 - use: p_cbg321609u600t
   qty: 27
   rev: released
