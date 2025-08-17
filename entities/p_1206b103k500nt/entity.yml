@@ -78,3 +78,6 @@ bom:
 - use: p_1206w4f220jt5e
   qty: 3
   rev: released
+- use: p_1206w4f1200t5e
+  qty: 53
+  rev: released
