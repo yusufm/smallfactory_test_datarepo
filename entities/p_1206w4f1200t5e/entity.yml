@@ -74,3 +74,6 @@ bom:
 - use: p_gal220v10
   qty: 5
   rev: released
+- use: p_gal220v10
+  qty: 3
+  rev: released
