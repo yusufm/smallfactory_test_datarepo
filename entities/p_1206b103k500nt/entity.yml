@@ -15,3 +15,6 @@ bom:
 - use: p_rvt1v470m0605
   qty: 6
   rev: released
+- use: p_sn7407dr
+  qty: 1
+  rev: released
