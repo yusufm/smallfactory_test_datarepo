@@ -1,9 +1,6 @@
 name: 2250-0-15-15-47-27-10-0 (Mill-Max)
 description: Circuit Board Hardware - PCB Solder Receptacle With No Tail .058
 bom:
-- use: p_1206b103k500nt
-  qty: 1
-  rev: released
 - use: p_ic254v-12-28-0743-p1524
   qty: 1
   rev: released
