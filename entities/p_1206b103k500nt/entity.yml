@@ -63,9 +63,6 @@ bom:
 - use: p_dsic08lh-p
   qty: 1
   rev: released
-- use: p_171826-4111111111
-  qty: 72
-  rev: released
 - use: p_b-3000s50p-0110
   qty: 1
   rev: released
