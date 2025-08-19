@@ -5,3 +5,6 @@ bom:
 - use: p_171826-4111111111
   qty: 72
   rev: released
+- use: p_1206b103k500nt
+  qty: 5
+  rev: released
