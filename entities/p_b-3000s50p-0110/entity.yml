@@ -1,3 +1,7 @@
 name: SCSI Internal IDC50M
 mpn: B-3000S50P-0110
 manufacturer: "Ckmtw(\u707F\u79D1\u76DF)"
+bom:
+- use: p_171826-42222222222
+  qty: 72
+  rev: released
