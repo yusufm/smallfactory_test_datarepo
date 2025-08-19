@@ -69,3 +69,6 @@ bom:
 - use: p_b-3000s50p-0110
   qty: 1
   rev: released
+- use: p_qq74f374d
+  qty: 1
+  rev: released
