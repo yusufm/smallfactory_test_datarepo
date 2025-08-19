@@ -66,3 +66,6 @@ bom:
 - use: p_header2-54mm-1-3p
   qty: 1
   rev: released
+- use: p_dsic08lh-p
+  qty: 1
+  rev: released
