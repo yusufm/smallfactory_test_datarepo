@@ -66,3 +66,6 @@ bom:
 - use: p_dsic08lh-p
   qty: 1
   rev: released
+- use: p_171826-4111
+  qty: 72
+  rev: released
