@@ -69,6 +69,3 @@ bom:
 - use: p_dsic08lh-p
   qty: 1
   rev: released
-- use: p_mmmmmmmmmmmmm
-  qty: 1
-  rev: released
