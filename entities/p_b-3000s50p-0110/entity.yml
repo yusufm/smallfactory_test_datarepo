@@ -8,3 +8,6 @@ bom:
 - use: p_cl21c100jbannncxxiaaaa
   qty: 1
   rev: released
+- use: p_1206b103k500nt
+  qty: 5
+  rev: released
