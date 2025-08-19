@@ -1,0 +1,13 @@
+name: NCR53C710
+attrs:
+  designator: U300
+  footprint: PQFP-160-PASTE
+  id: '20'
+  manufacturer part: jhhgjh
+  manufacturer_part: jhhgjh
+  manufacturerpart: jhhgjh
+  mpn: jhhgjh
+  supplier part: NCR53C710
+  supplier_part: NCR53C710
+  supplierpart: NCR53C710
+  auto_suggested: 'True'
