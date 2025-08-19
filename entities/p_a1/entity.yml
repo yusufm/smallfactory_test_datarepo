@@ -39,3 +39,6 @@ bom:
 - use: p_sn7407dr
   qty: 1
   rev: released
+- use: p_74f245d
+  qty: 2
+  rev: released
