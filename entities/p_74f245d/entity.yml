@@ -1,3 +1,7 @@
 name: 74F245
 mpn: 74F245D
 manufacturer: PHILIPS
+bom:
+- use: p_171826-42222222222
+  qty: 72
+  rev: released
