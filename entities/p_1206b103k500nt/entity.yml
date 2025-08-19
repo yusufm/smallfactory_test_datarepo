@@ -70,7 +70,7 @@ bom:
   qty: 1
   rev: released
 - use: p_171826-42222222222
-  qty: 999
+  qty: 72
   rev: released
 - use: p_cl21c100jbannncxxiaaaa
   qty: 1
