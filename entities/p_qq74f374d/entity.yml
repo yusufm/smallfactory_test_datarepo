@@ -1,3 +1,7 @@
 manufacturer: PHILIPS
 mpn: QQ74F374D
 name: QQ74FCT374TSO
+bom:
+- use: p_171826-4111111111
+  qty: 72
+  rev: released
