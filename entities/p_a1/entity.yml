@@ -12,3 +12,6 @@ bom:
 - use: p_cbg321609u600t
   qty: 27
   rev: released
+- use: p_cl31b104kbcnnnc
+  qty: 31
+  rev: released
