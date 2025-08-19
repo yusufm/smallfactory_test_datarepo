@@ -56,3 +56,6 @@ bom:
 - use: p_gal220v10
   qty: 3
   rev: released
+- use: p_cy74fct543tsoc
+  qty: 7
+  rev: released
