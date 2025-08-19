@@ -53,3 +53,6 @@ bom:
 - use: p_rvt1v470m0605
   qty: 6
   rev: released
+- use: p_gal220v10
+  qty: 3
+  rev: released
