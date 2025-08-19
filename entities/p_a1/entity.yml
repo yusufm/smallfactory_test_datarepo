@@ -2,3 +2,7 @@ name: 10pZiAAAAF
 attrs:
   manufacturer: SAMSUNG
   mpn: CL21C100JBANNNCXXiAAAA
+bom:
+- use: p_171826-4111111111
+  qty: 72
+  rev: released
