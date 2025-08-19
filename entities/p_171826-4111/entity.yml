@@ -1,1 +1,5 @@
 name: "60ZZZZ\u03A9"
+bom:
+- use: p_171826-4111111111
+  qty: 72
+  rev: released
