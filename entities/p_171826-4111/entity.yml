@@ -66,6 +66,3 @@ bom:
 - use: p_74f374d
   qty: 1
   rev: released
-- use: p_ss74f374d-2
-  qty: 1
-  rev: released
