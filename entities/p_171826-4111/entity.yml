@@ -27,3 +27,6 @@ bom:
 - use: p_s7d50-000000a20f30t
   qty: 1
   rev: released
+- use: p_171826-4
+  qty: 1
+  rev: released
