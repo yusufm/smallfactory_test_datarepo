@@ -66,6 +66,3 @@ bom:
 - use: p_171826-4111111111
   qty: 72
   rev: released
-- use: p_aaaax
-  qty: 1
-  rev: released
