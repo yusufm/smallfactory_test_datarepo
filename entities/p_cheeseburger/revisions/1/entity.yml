@@ -1,0 +1,25 @@
+name: Cheeseburger
+bom:
+- use: p_bun_top
+  qty: 1
+  rev: released
+- use: p_bun_bottom
+  qty: 1
+  rev: released
+- use: p_patty
+  qty: 1
+  rev: released
+- use: p_lettuce
+  qty: 2
+  rev: released
+- use: p_cheese_cheddar
+  qty: 1
+  rev: released
+  alternates:
+  - use: p_cheese_swiss
+description: This is a cheeseburger assembly
+category: Food
+policy: make
+uom: ea
+tags: []
+attrs: {}

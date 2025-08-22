@@ -1,0 +1,82 @@
+format: bom_tree.v1
+root: p_cheeseburger
+rev: '1'
+generated_at: '2025-08-22T22:11:05.554203+00:00'
+nodes:
+- parent: p_cheeseburger
+  use: p_bun_top
+  name: Top burger bun
+  qty: 1
+  rev_spec: released
+  rev: null
+  level: 0
+  is_alt: false
+  alternates_group: null
+  cumulative_qty: 1
+  cycle: false
+- parent: p_bun_top
+  use: p_sesame_seed
+  name: Sesame Seed
+  qty: 110
+  rev_spec: released
+  rev: null
+  level: 1
+  is_alt: false
+  alternates_group: null
+  cumulative_qty: 110
+  cycle: false
+- parent: p_cheeseburger
+  use: p_bun_bottom
+  name: Bottom burger bun
+  qty: 1
+  rev_spec: released
+  rev: null
+  level: 0
+  is_alt: false
+  alternates_group: null
+  cumulative_qty: 1
+  cycle: false
+- parent: p_cheeseburger
+  use: p_patty
+  name: Burger patty
+  qty: 1
+  rev_spec: released
+  rev: null
+  level: 0
+  is_alt: false
+  alternates_group: null
+  cumulative_qty: 1
+  cycle: false
+- parent: p_cheeseburger
+  use: p_lettuce
+  name: Lettuce
+  qty: 2
+  rev_spec: released
+  rev: null
+  level: 0
+  is_alt: false
+  alternates_group: null
+  cumulative_qty: 2
+  cycle: false
+- parent: p_cheeseburger
+  use: p_cheese_cheddar
+  name: Cheddar cheese
+  qty: 1
+  rev_spec: released
+  rev: null
+  level: 0
+  is_alt: false
+  alternates_group: null
+  cumulative_qty: 1
+  cycle: false
+- parent: p_cheeseburger
+  use: p_cheese_swiss
+  name: Swiss cheese
+  qty: 1
+  rev_spec: released
+  rev: null
+  level: 1
+  is_alt: true
+  alternates_group: null
+  cumulative_qty: 1
+  cycle: false
