@@ -9,3 +9,6 @@ bom:
 - use: p_patty
   qty: 1
   rev: released
+- use: p_lettuce
+  qty: 1
+  rev: released
