@@ -1,1 +1,5 @@
 name: Top burger bun
+bom:
+- use: p_sesame_seed
+  qty: 110
+  rev: released
