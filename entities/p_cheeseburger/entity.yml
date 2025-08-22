@@ -6,3 +6,6 @@ bom:
 - use: p_bun_bottom
   qty: 1
   rev: released
+- use: p_patty
+  qty: 1
+  rev: released
