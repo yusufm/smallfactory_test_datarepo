@@ -17,3 +17,9 @@ bom:
   rev: released
   alternates:
   - use: p_cheese_swiss
+description: This is a cheeseburger assembly
+category: Food
+policy: make
+uom: ea
+tags: []
+attrs: {}
