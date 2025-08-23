@@ -1,5 +1,5 @@
 rev: '2'
-status: draft
+status: released
 generated_at: '2025-08-23T06:55:09.995848+00:00'
 id: '2'
 notes: sdfklsdjfsdfsdflksdjfs sdfhsidfhsidhfsdsdfs djfhd
@@ -17,3 +17,4 @@ artifacts:
 - role: drawing
   path: files/stickers_batch_1_labels (60).pdf
   sha256: 080a04568fa5f2b511c7577f1d725b228880c78b3ffcab68c7c9042d943cdbc0
+released_at: '2025-08-23T06:55:10.027368+00:00'
