@@ -1,7 +1,7 @@
 name: 10nFf
 mpn: 1206B103K500NT
 manufacturer: FH
-description: new desc2222223333
+description: new
 bom:
 - use: p_1206b103k500nt
   qty: 5
