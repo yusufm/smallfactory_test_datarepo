@@ -1,6 +1,7 @@
 uom: ea
-as_of: '2025-08-23T15:47:35Z'
+as_of: '2025-08-23T16:27:05Z'
 parts:
+  b_dsfsdfds: 1
   p_1206b103k500nt: 11
   p_1206w4f1001t5e: 1
   p_1n4001rlg_onsemi: 5
@@ -14,4 +15,4 @@ parts:
   p_m24c04_wbn6p_stmicroelectronics: 5
   p_x21: 1
   p_zzzzzzzzzz: 1
-total: 66
+total: 67
