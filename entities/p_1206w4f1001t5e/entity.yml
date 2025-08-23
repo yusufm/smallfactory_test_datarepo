@@ -77,3 +77,5 @@ bom:
 - use: p_74f374d
   qty: 1
   rev: released
+retired: true
+retired_at: '2025-08-23T07:00:42.975245+00:00'
