@@ -1,21 +1,7 @@
 name: 10nFf
 mpn: 1206B103K500NT
 manufacturer: FH
-description: 'Updated via web identity testf
-
-  ]
-
-  d
-
-  fsdlkfjsdf
-
-  sd
-
-  sd
-
-  f
-
-  sdf'
+description: new desc
 bom:
 - use: p_1206b103k500nt
   qty: 5
