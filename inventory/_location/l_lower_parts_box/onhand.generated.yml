@@ -1,8 +1,8 @@
 uom: ea
-as_of: '2025-08-23T15:33:23Z'
+as_of: '2025-08-23T15:36:15Z'
 parts:
   p_1206b103k500nt: 5
-  p_1206w4f1200t5e: 5
+  p_1206w4f1200t5e: 53
   p_1n4001rlg_onsemi: -5
   p_1n4148w_7_f_diodes_inc: 9
   p_1n4148w_tp_mcc: 50
@@ -57,4 +57,4 @@ parts:
   p_tz03p450f169b00_murata: 5
   p_xc9572xl_10tqg100c_xilinx: 23
   p_xc9572xl_10vqg64c_xilinx: 4
-total: 957
+total: 1005
