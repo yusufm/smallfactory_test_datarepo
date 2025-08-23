@@ -1,7 +1,7 @@
 uom: ea
-as_of: '2025-08-23T15:34:19Z'
+as_of: '2025-08-23T15:34:32Z'
 parts:
-  p_2n3904bu_onsemi: 5
+  p_2n3904bu_onsemi: 21
   p_ap2210n_3_3trg1_diodes_inc: 12
   p_cm4545z131b_10_laird: 1
   p_ds1000z_25_maxim_integrated: 7
@@ -24,4 +24,4 @@ parts:
   p_w25x10clsnig_winbond: 1
   p_w9825g6kh_6_winbond: 5
   p_xc95288xl_10tqg144i_xilinx: 10
-total: 95
+total: 111
