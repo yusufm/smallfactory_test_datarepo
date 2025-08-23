@@ -102,3 +102,4 @@
 {"txn":"06CDF3SQRH3Z32W3GV5W1SQK00","location":"l_inbox","qty_delta":10}
 {"txn":"06CDF3V4G3E0EP89P6X864KKRW","location":"l_lower_parts_box","qty_delta":10}
 {"txn":"06CDF40YCEXWDMFSKYJ1F5Q3KW","location":"l_lower_parts_box","qty_delta":-6,"reason":"None"}
+{"txn":"06CDFGV959B3D1Y5HQVMNWJ184","location":"l_inbox","qty_delta":10,"reason":"None"}
