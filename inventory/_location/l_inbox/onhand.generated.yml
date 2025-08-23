@@ -1,5 +1,5 @@
 uom: ea
-as_of: '2025-08-22T23:08:55Z'
+as_of: '2025-08-23T04:14:47Z'
 parts:
   p_1206b103k500nt: -4
   p_1n4001rlg_onsemi: -5
@@ -9,4 +9,5 @@ parts:
   p_cheeseburger: 5
   p_csc05a014k70gek_vishay: 4
   p_m24c04_wbn6p_stmicroelectronics: 5
-total: 16
+  p_x10: 1
+total: 17
