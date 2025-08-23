@@ -1,5 +1,5 @@
 rev: '1'
-status: draft
+status: released
 generated_at: '2025-08-23T06:03:03.100940+00:00'
 id: '1'
 source_commit: 338200b
@@ -13,3 +13,4 @@ artifacts:
 - role: drawing
   path: files/stickers_batch_1_labels (60).pdf
   sha256: 080a04568fa5f2b511c7577f1d725b228880c78b3ffcab68c7c9042d943cdbc0
+released_at: '2025-08-23T06:03:03.136131+00:00'
