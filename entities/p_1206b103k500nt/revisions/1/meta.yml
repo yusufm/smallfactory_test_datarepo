@@ -1,0 +1,15 @@
+rev: '1'
+status: draft
+generated_at: '2025-08-23T06:03:03.100940+00:00'
+id: '1'
+source_commit: 338200b
+artifacts:
+- role: entity
+  path: entity.yml
+  sha256: 7619c6250492005c7c568883acaa18d2e300dd07ce3aa6f23fed4b320b3cf74d
+- role: bom-tree
+  path: bom_tree.yml
+  sha256: 384bd7d1a998830529b70a4a2abf8ca1b2d993422525a2b3f3d3d8f9afc008b8
+- role: drawing
+  path: files/stickers_batch_1_labels (60).pdf
+  sha256: 080a04568fa5f2b511c7577f1d725b228880c78b3ffcab68c7c9042d943cdbc0
