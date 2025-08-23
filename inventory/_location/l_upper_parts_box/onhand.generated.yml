@@ -1,5 +1,5 @@
 uom: ea
-as_of: '2025-08-11T07:58:36Z'
+as_of: '2025-08-23T05:38:57Z'
 parts:
   p_292303_5_te_connectivity: 8
   p_4608x_101_331lf_bourns: 8
@@ -10,7 +10,6 @@ parts:
   p_4610x_101_102lf_bourns: 4
   p_4610x_101_332lf_bourns: 6
   p_4610x_101_472lf_bourns: 2
-  p_4610x_102_390lf_bourns: 1
   p_cb3_3c_72m000000_cts_components: 7
   p_cppc4l_a7br_72_0ts_cardinal_components: 9
   p_d5sx66e000001e_hosonic_electronic: 10
@@ -32,4 +31,4 @@ parts:
   p_xc95288xl_10tqg144c_xilinx: 16
   p_xc95288xl_10tqg144i_xilinx: 2
   p_xc9572xl_10vqg44c_xilinx: 10
-total: 213
+total: 212
