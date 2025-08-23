@@ -1,7 +1,7 @@
 uom: ea
-as_of: '2025-08-23T05:41:59Z'
+as_of: '2025-08-23T05:42:12Z'
 parts:
-  p_1206w4f1001t5e: 1
+  p_1206w4f1001t5e: 5
   p_1n4001rlg_onsemi: -5
   p_1n4148ws_grvg_taiwan_semiconductor: 4
   p_22: 21
@@ -11,4 +11,4 @@ parts:
   p_csc05a014k70gek_vishay: 4
   p_m24c04_wbn6p_stmicroelectronics: 5
   p_x21: 1
-total: 43
+total: 47
