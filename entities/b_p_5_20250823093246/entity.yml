@@ -6,3 +6,10 @@ name: Build 5
 opened_at: '2025-08-23T09:32:46'
 status: open
 product_rev: '1'
+description: ''
+notes: just a serial number
+category: ''
+policy: ''
+uom: ea
+tags: []
+attrs: {}
