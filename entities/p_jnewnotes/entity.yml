@@ -1,0 +1,47 @@
+name: notes
+notes: "127.0.0.1 - - [23/Aug/2025 00:00:47] \"GET /inventory HTTP/1.1\" 200 -\r\n\
+  127.0.0.1 - - [23/Aug/2025 00:00:47] \"GET /static/js/autocomplete.js HTTP/1.1\"\
+  \ 304 -\r\n127.0.0.1 - - [23/Aug/2025 00:00:47] \"GET /static/img/favicon.svg HTTP/1.1\"\
+  \ 304 -\r\n^C[2025-08-23 00:03:26,565] INFO in app: [smallFactory][git] 2025-08-23T00:03:26\
+  \ shutdown: no pending push timers\r\n[2025-08-23 00:03:26,642] INFO in app: [smallFactory][git]\
+  \ 2025-08-23T00:03:26 shutdown: no pending push timers\r\npython3 sf.py web --port\
+  \ 8080 --debug\r\n\U0001F3ED Starting smallFactory Web UI...\r\n\U0001F4CD Access\
+  \ the interface at: http://localhost:8080\r\n\U0001F527 Git-native PLM for 1-4 person\
+  \ teams\r\n==================================================\r\n * Serving Flask\
+  \ app 'web.app'\r\n * Debug mode: on\r\nWARNING: This is a development server. Do\
+  \ not use it in a production deployment. Use a production WSGI server instead.\r\
+  \n * Running on all addresses (0.0.0.0)\r\n * Running on http://127.0.0.1:8080\r\
+  \n * Running on http://192.168.86.33:8080\r\nPress CTRL+C to quit\r\n * Restarting\
+  \ with stat\r\n\U0001F3ED Starting smallFactory Web UI...\r\n\U0001F4CD Access the\
+  \ interface at: http://localhost:8080\r\n\U0001F527 Git-native PLM for 1-4 person\
+  \ teams\r\n==================================================\r\n * Debugger is\
+  \ active!\r\n * Debugger PIN: 122-989-529\r\n127.0.0.1 - - [23/Aug/2025 00:03:29]\
+  \ \"GET /inventory HTTP/1.1\" 200 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:29] \"GET\
+  \ /static/js/autocomplete.js HTTP/1.1\" 304 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:29]\
+  \ \"GET /static/img/favicon.svg HTTP/1.1\" 304 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:31]\
+  \ \"GET /entities?type=p HTTP/1.1\" 200 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:31]\
+  \ \"GET /static/js/autocomplete.js HTTP/1.1\" 304 -\r\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:33] \"GET /entities/p_1206b103k500nt HTTP/1.1\" 200 -\r\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:33] \"GET /static/js/autocomplete.js HTTP/1.1\" 304 -\r\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:33] \"GET /api/entities/p_1206b103k500nt/files HTTP/1.1\" 200 -\r\n127.0.0.1\
+  \ - - [23/Aug/2025 00:03:33] \"GET /api/entities/p_1206b103k500nt/revisions HTTP/1.1\"\
+  \ 200 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:33] \"GET /api/entities/p_1206b103k500nt/bom\
+  \ HTTP/1.1\" 200 -\r\n[2025-08-23 00:03:43,309] INFO in app: [smallFactory][git]\
+  \ 2025-08-23T00:03:43 pull: begin ttl=10s\r\n[2025-08-23 00:03:43,373] INFO in app:\
+  \ [smallFactory][git] 2025-08-23T00:03:43 pull: scheduling background fetch\r\n\
+  [2025-08-23 00:03:43,373] INFO in app: [smallFactory][git] 2025-08-23T00:03:43 bg\
+  \ fetch: start\r\n[2025-08-23 00:03:43,374] INFO in app: [smallFactory][git] 2025-08-23T00:03:43\
+  \ bg fetch: scheduled in 0ms\r\n[2025-08-23 00:03:43,374] INFO in app: [smallFactory][git]\
+  \ 2025-08-23T00:03:43 pull: background mode -> skip behind-check and pull\r\n[2025-08-23\
+  \ 00:03:43,492] INFO in app: [smallFactory][git] 2025-08-23T00:03:43 async push:\
+  \ start\r\n127.0.0.1 - - [23/Aug/2025 00:03:43] \"POST /api/entities/p_1206b103k500nt/update\
+  \ HTTP/1.1\" 200 -\r\n[2025-08-23 00:03:44,689] INFO in app: [smallFactory][git]\
+  \ 2025-08-23T00:03:44 bg fetch: done 1315ms\r\n[2025-08-23 00:03:44,843] INFO in\
+  \ app: [smallFactory][git] 2025-08-23T00:03:44 async push: done 1350ms ok=True\r\
+  \n127.0.0.1 - - [23/Aug/2025 00:03:46] \"GET /entities/p_1206b103k500nt HTTP/1.1\"\
+  \ 200 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:46] \"GET /static/js/autocomplete.js\
+  \ HTTP/1.1\" 304 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:46] \"GET /static/img/favicon.svg\
+  \ HTTP/1.1\" 304 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:46] \"GET /api/entities/p_1206b103k500nt/files\
+  \ HTTP/1.1\" 200 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:46] \"GET /api/entities/p_1206b103k500nt/revisions\
+  \ HTTP/1.1\" 200 -\r\n127.0.0.1 - - [23/Aug/2025 00:03:46] \"GET /api/entities/p_1206b103k500nt/bom\
+  \ HTTP/1.1\" 200 -"
