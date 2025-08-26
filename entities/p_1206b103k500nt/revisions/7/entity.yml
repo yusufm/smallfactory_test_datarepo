@@ -1,0 +1,90 @@
+name: 10nFf
+mpn: 1206B103K500NT
+manufacturer: FH
+description: new
+bom:
+- use: p_1206b103k500nt
+  qty: 5
+  rev: released
+- use: p_cbg321609u600t
+  qty: 21
+  rev: released
+- use: p_cl31b104kbcnnnc
+  qty: 31
+  rev: released
+- use: p_1206w4f220jt5e
+  qty: 3
+  rev: '28'
+- use: p_1206w4f1200t5e
+  qty: 53
+  rev: released
+- use: p_s7d50-000000a20f30t
+  qty: 1
+  rev: released
+- use: p_171826-4
+  qty: 1
+  rev: released
+- use: p_sn7407dr
+  qty: 1
+  rev: released
+- use: p_74f245d
+  qty: 2
+  rev: released
+- use: p_74f74d
+  qty: 1
+  rev: released
+- use: p_uwx1e4r7mcl1gb
+  qty: 2
+  rev: released
+- use: p_rvt1v470m0605
+  qty: 6
+  rev: released
+- use: p_gal220v10
+  qty: 3
+  rev: released
+- use: p_cy74fct543tsoc
+  qty: 7
+  rev: released
+- use: p_74f244scx
+  qty: 1
+  rev: released
+- use: p_74fct521ctsog8
+  qty: 1
+  rev: released
+- use: p_74f374d
+  qty: 1
+  rev: released
+- use: p_zzzzzzzzzz
+  qty: 1
+  rev: released
+- use: p_header2-54mm-1-3p
+  qty: 1
+  rev: released
+- use: p_dsic08lh-p
+  qty: 1
+  rev: released
+- use: p_b-3000s50p-0110
+  qty: 1
+  rev: released
+- use: p_ss74f374d
+  qty: 1
+  rev: released
+- use: p_171826-42222222222
+  qty: 72
+  rev: released
+- use: p_cl21c100jbannncxxiaaaa
+  qty: 1
+  rev: released
+- use: p_jhhgjh
+  qty: 1
+  rev: released
+category: f
+policy: ''
+uom: ea
+tags:
+- f
+attrs:
+  '555': '555'
+  '2222': '222222'
+  '3333': '33333'
+notes: new note2222244444
