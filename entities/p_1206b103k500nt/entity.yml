@@ -3,9 +3,6 @@ mpn: 1206B103K500NT
 manufacturer: FH
 description: new
 bom:
-- use: p_171826-4
-  qty: 1
-  rev: released
 - use: p_sn7407dr
   qty: 1
   rev: released
