@@ -52,3 +52,7 @@ policy: ''
 uom: ea
 tags: []
 attrs: {}
+bom:
+- use: p_x1
+  qty: 1
+  rev: released
