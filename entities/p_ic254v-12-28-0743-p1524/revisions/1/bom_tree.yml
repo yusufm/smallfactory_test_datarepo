@@ -1,0 +1,16 @@
+format: bom_tree.v1
+root: p_ic254v-12-28-0743-p1524
+rev: '1'
+generated_at: '2025-08-26T05:12:32.606720+00:00'
+nodes:
+- parent: p_ic254v-12-28-0743-p1524
+  use: p_1n4148ws_grvg_taiwan_semiconductor
+  name: 1N4148WS-G RVG (Taiwan Semiconductor)
+  qty: 1
+  rev_spec: released
+  rev: '11'
+  level: 0
+  is_alt: false
+  alternates_group: null
+  gross_qty: 1
+  cycle: false
