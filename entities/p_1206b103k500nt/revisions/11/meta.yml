@@ -1,5 +1,5 @@
 rev: '11'
-status: draft
+status: released
 generated_at: '2025-08-26T05:22:59.057217+00:00'
 id: '11'
 source_commit: a9c70d9
@@ -16,3 +16,4 @@ artifacts:
 - role: file
   path: files/p_1206b103k500nt_rev7 (1).tar.gz
   sha256: 6f46e9ea3593dcd10440b00a1cda902759c90861b4fe94fca8f9cbbb30979820
+released_at: '2025-08-26T05:22:59.111691+00:00'
