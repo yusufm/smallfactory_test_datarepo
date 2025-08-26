@@ -1,0 +1,27 @@
+format: bom_tree.v1
+root: p_1206b103k500nt
+rev: '8'
+generated_at: '2025-08-26T04:00:52.115457+00:00'
+nodes:
+- parent: p_1206b103k500nt
+  use: p_cl21c100jbannncxxiaaaa
+  name: 10pZiAAAAF
+  qty: 1
+  rev_spec: released
+  rev: null
+  level: 0
+  is_alt: false
+  alternates_group: null
+  gross_qty: 1
+  cycle: false
+- parent: p_1206b103k500nt
+  use: p_jhhgjh
+  name: NCR53C710
+  qty: 1
+  rev_spec: released
+  rev: '3'
+  level: 0
+  is_alt: false
+  alternates_group: null
+  gross_qty: 1
+  cycle: false

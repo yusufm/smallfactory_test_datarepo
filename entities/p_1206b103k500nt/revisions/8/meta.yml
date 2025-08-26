@@ -1,0 +1,18 @@
+rev: '8'
+status: draft
+generated_at: '2025-08-26T04:00:52.131766+00:00'
+id: '8'
+source_commit: 802fe3f
+artifacts:
+- role: entity
+  path: entity.yml
+  sha256: a8cc5c07dd464c2eb2eb27bfbcddbacd82e3f40ed0fac9dbfc59ea90c047b922
+- role: bom-tree
+  path: bom_tree.yml
+  sha256: 77d5f427a82ac69a82c65a729136c89f4589c15f4f219d8a52fa794dac1c75ad
+- role: ref
+  path: refs/released
+  sha256: 10159baf262b43a92d95db59dae1f72c645127301661e0a3ce4e38b295a97c58
+- role: drawing
+  path: files/stickers_batch_1_labels (60).pdf
+  sha256: 080a04568fa5f2b511c7577f1d725b228880c78b3ffcab68c7c9042d943cdbc0
