@@ -1,0 +1,16 @@
+format: bom_tree.v1
+root: p_1206w4f220jt5e
+rev: '28'
+generated_at: '2025-08-26T03:24:01.082032+00:00'
+nodes:
+- parent: p_1206w4f220jt5e
+  use: p_x1
+  name: x1
+  qty: 1
+  rev_spec: released
+  rev: null
+  level: 0
+  is_alt: false
+  alternates_group: null
+  gross_qty: 1
+  cycle: false

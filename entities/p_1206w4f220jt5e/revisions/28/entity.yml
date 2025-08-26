@@ -1,0 +1,58 @@
+name: '22'
+mpn: 1206W4F220JT5E
+manufacturer: "UNI-ROYAL(\u539A\u58F0)"
+description: deskcirpton
+notes: "sdf127.0.0.1 - - [23/Aug/2025 00:00:47] \"GET /inventory HTTP/1.1\" 200 -\n\
+  127.0.0.1 - - [23/Aug/2025 00:00:47] \"GET /static/js/autocomplete.js HTTP/1.1\"\
+  \ 304 -\n127.0.0.1 - - [23/Aug/2025 00:00:47] \"GET /static/img/favicon.svg HTTP/1.1\"\
+  \ 304 -\n^C[2025-08-23 00:03:26,565] INFO in app: [smallFactory][git] 2025-08-23T00:03:26\
+  \ shutdown: no pending push timers\n[2025-08-23 00:03:26,642] INFO in app: [smallFactory][git]\
+  \ 2025-08-23T00:03:26 shutdown: no pending push timers\npython3 sf.py web --port\
+  \ 8080 --debug\n\U0001F3ED Starting smallFactory Web UI...\n\U0001F4CD Access the\
+  \ interface at: http://localhost:8080\n\U0001F527 Git-native PLM for 1-4 person\
+  \ teams\n==================================================\n * Serving Flask app\
+  \ 'web.app'\n * Debug mode: on\nWARNING: This is a development server. Do not use\
+  \ it in a production deployment. Use a production WSGI server instead.\n * Running\
+  \ on all addresses (0.0.0.0)\n * Running on http://127.0.0.1:8080\n * Running on\
+  \ http://192.168.86.33:8080\nPress CTRL+C to quit\n * Restarting with stat\n\U0001F3ED\
+  \ Starting smallFactory Web UI...\n\U0001F4CD Access the interface at: http://localhost:8080\n\
+  \U0001F527 Git-native PLM for 1-4 person teams\n==================================================\n\
+  \ * Debugger is active!\n * Debugger PIN: 122-989-529\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:29] \"GET /inventory HTTP/1.1\" 200 -\n127.0.0.1 - - [23/Aug/2025 00:03:29]\
+  \ \"GET /static/js/autocomplete.js HTTP/1.1\" 304 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:29] \"GET /static/img/favicon.svg HTTP/1.1\" 304 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:31] \"GET /entities?type=p HTTP/1.1\" 200 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:31] \"GET /static/js/autocomplete.js HTTP/1.1\" 304 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:33] \"GET /entities/p_1206b103k500nt HTTP/1.1\" 200 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:33] \"GET /static/js/autocomplete.js HTTP/1.1\" 304 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:33] \"GET /api/entities/p_1206b103k500nt/files HTTP/1.1\" 200 -\n127.0.0.1\
+  \ - - [23/Aug/2025 00:03:33] \"GET /api/entities/p_1206b103k500nt/revisions HTTP/1.1\"\
+  \ 200 -\n127.0.0.1 - - [23/Aug/2025 00:03:33] \"GET /api/entities/p_1206b103k500nt/bom\
+  \ HTTP/1.1\" 200 -\n[2025-08-23 00:03:43,309] INFO in app: [smallFactory][git] 2025-08-23T00:03:43\
+  \ pull: begin ttl=10s\n[2025-08-23 00:03:43,373] INFO in app: [smallFactory][git]\
+  \ 2025-08-23T00:03:43 pull: scheduling background fetch\n[2025-08-23 00:03:43,373]\
+  \ INFO in app: [smallFactory][git] 2025-08-23T00:03:43 bg fetch: start\n[2025-08-23\
+  \ 00:03:43,374] INFO in app: [smallFactory][git] 2025-08-23T00:03:43 bg fetch: scheduled\
+  \ in 0ms\n[2025-08-23 00:03:43,374] INFO in app: [smallFactory][git] 2025-08-23T00:03:43\
+  \ pull: background mode -> skip behind-check and pull\n[2025-08-23 00:03:43,492]\
+  \ INFO in app: [smallFactory][git] 2025-08-23T00:03:43 async push: start\n127.0.0.1\
+  \ - - [23/Aug/2025 00:03:43] \"POST /api/entities/p_1206b103k500nt/update HTTP/1.1\"\
+  \ 200 -\n[2025-08-23 00:03:44,689] INFO in app: [smallFactory][git] 2025-08-23T00:03:44\
+  \ bg fetch: done 1315ms\n[2025-08-23 00:03:44,843] INFO in app: [smallFactory][git]\
+  \ 2025-08-23T00:03:44 async push: done 1350ms ok=True\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:46] \"GET /entities/p_1206b103k500nt HTTP/1.1\" 200 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:46] \"GET /static/js/autocomplete.js HTTP/1.1\" 304 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:46] \"GET /static/img/favicon.svg HTTP/1.1\" 304 -\n127.0.0.1 - - [23/Aug/2025\
+  \ 00:03:46] \"GET /api/entities/p_1206b103k500nt/files HTTP/1.1\" 200 -\n127.0.0.1\
+  \ - - [23/Aug/2025 00:03:46] \"GET /api/entities/p_1206b103k500nt/revisions HTTP/1.1\"\
+  \ 200 -\n127.0.0.1 - - [23/Aug/2025 00:03:46] \"GET /api/entities/p_1206b103k500nt/bom\
+  \ HTTP/1.1\" 200 -"
+category: ''
+policy: ''
+uom: ea
+tags: []
+attrs: {}
+bom:
+- use: p_x1
+  qty: 1
+  rev: released
