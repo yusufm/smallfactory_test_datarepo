@@ -3,9 +3,6 @@ mpn: 1206B103K500NT
 manufacturer: FH
 description: new
 bom:
-- use: p_dsic08lh-p
-  qty: 1
-  rev: released
 - use: p_b-3000s50p-0110
   qty: 1
   rev: released
