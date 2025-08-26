@@ -12,3 +12,5 @@ policy: ''
 uom: ea
 tags: []
 attrs: {}
+retired: true
+retired_at: '2025-08-26T00:34:37.968823+00:00'
