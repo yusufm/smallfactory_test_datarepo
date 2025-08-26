@@ -3,9 +3,6 @@ mpn: 1206B103K500NT
 manufacturer: FH
 description: new
 bom:
-- use: p_cy74fct543tsoc
-  qty: 7
-  rev: released
 - use: p_74f244scx
   qty: 1
   rev: released
