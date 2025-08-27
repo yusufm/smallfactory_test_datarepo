@@ -33,6 +33,9 @@ bom:
 - use: p_dsic08lh-p
   qty: 1
   rev: released
+- use: p_s7d50-000000a20f30t
+  qty: 1
+  rev: released
 category: f
 policy: ''
 uom: ea
