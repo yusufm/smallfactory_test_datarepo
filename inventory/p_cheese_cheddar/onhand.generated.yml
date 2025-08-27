@@ -1,5 +1,6 @@
 uom: ea
-as_of: '2025-08-22T22:32:31Z'
+as_of: '2025-08-27T00:26:03Z'
 by_location:
+  l_freezer: 10
   l_top_shelf: 53
-total: 53
+total: 63
