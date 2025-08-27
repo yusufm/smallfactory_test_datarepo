@@ -21,6 +21,9 @@ bom:
 - use: p_cl31b104kbcnnnc
   qty: 31
   rev: released
+- use: p_1206w4f220jt5e
+  qty: 3
+  rev: released
 category: f
 policy: ''
 uom: ea
