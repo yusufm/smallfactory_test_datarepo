@@ -12,6 +12,9 @@ bom:
 - use: p_171826-42222222222
   qty: 72
   rev: released
+- use: p_1206b103k500nt
+  qty: 5
+  rev: released
 category: f
 policy: ''
 uom: ea
